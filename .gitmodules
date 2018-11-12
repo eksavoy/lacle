@@ -1,0 +1,3 @@
+[submodule "lacle-backend"]
+	path = lacle-backend
+	url = git@github.com:eksavoy/lacle-backend.git
